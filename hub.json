@@ -1,0 +1,1 @@
+{"name": "Monorepo Hygiene Rules", "slug": "rules-monorepo-hygiene", "kind": "rules-pack", "description": "Monorepo hygiene rules: package boundaries, one-directional imports, and honest shared-library versioning.", "version": "1.0.0", "priceMinor": 0, "currency": "USD", "contentDir": "rules"}
