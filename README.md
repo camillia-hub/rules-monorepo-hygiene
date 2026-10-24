@@ -4,10 +4,10 @@ A Camillia rules pack that enforces monorepo hygiene as hard constraints: clean 
 
 ## Rules at a glance
 
-- **Package boundaries** (`rules/boundaries.md`) - single-capability packages, one public entry point per package, no deep imports, minimal deliberate API surface.
-- **Import discipline** (`rules/imports.md`) - one-directional layering, package-name imports only, no cross-package relative paths, no cyclic dependencies.
-- **Shared library versioning** (`rules/versioning.md`) - strict semver, mandatory changelogs, deprecate-before-delete, additive changes over breaking edits.
-- **Ownership** (`rules/ownership.md`) - exactly one owning team per package, owner review required, documented support and deprecation status.
+- **Package boundaries** (`rules/cam-ext-monorepo-hygiene-boundaries.md`) - single-capability packages, one public entry point per package, no deep imports, minimal deliberate API surface.
+- **Import discipline** (`rules/cam-ext-monorepo-hygiene-imports.md`) - one-directional layering, package-name imports only, no cross-package relative paths, no cyclic dependencies.
+- **Shared library versioning** (`rules/cam-ext-monorepo-hygiene-versioning.md`) - strict semver, mandatory changelogs, deprecate-before-delete, additive changes over breaking edits.
+- **Ownership** (`rules/cam-ext-monorepo-hygiene-ownership.md`) - exactly one owning team per package, owner review required, documented support and deprecation status.
 
 ## Install
 
